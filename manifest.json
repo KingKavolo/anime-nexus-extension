@@ -4,5 +4,6 @@
   "description": "Streams anime from anime.nexus",
   "version": "1.0.0",
   "type": "extension",
-  "baseUrl": "https://anime.nexus"
+  "baseUrl": "https://anime.nexus",
+  "entry": "index.js"
 }
