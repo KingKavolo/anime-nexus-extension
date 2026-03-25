@@ -1,5 +1,8 @@
 {
+  "id": "anime-nexus",
   "name": "AnimeNexus",
+  "description": "Streams anime from anime.nexus",
   "version": "1.0.0",
+  "type": "extension",
   "baseUrl": "https://anime.nexus"
 }
